@@ -26,9 +26,9 @@
 									<a href="#menu" class="menuToggle"><span>Menu</span></a>
 									<div id="menu">
 										<ul>
-											<li><a href="index.html">Home</a></li>
-											<li><a href="generic.html">Handouts</a></li>
-											<li><a href="elements.html">Contests</a></li>
+											<li><a href="GC Home">Home</a></li>
+											<li><a href="GC Handouts">Handouts</a></li>
+											<li><a href="GC Contest">Contests</a></li>
 											<li><a href="#">Sign Up</a></li>
 											<li><a href="#">Log In</a></li>
 										</ul>
